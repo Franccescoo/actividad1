@@ -47,6 +47,8 @@ h2 {
 table {
 	width: 35%;
 	height: 150px;
+	background-color: white;
+	border-radius: 20px;
 }
 h3{
 	margin: 15px;
